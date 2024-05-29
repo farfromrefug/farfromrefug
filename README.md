@@ -1,4 +1,4 @@
-![farfromrefug github stats](https://github-readme-stats.vercel.app/api?username=farfromrefug)
+![farfromrefug github stats](https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=farfromrefug&count_private=true&show_icons=true&locale=en&role=OWNER,ORGANIZATION_MEMBER)
 
 Today i work mainly around mobile applications.
 
