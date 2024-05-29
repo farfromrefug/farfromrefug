@@ -5,21 +5,22 @@ Today i work mainly around mobile applications.
 The sponsorship allow me to spend more time on those applications and on Nativescript and its plugins. My main job is to develop applications for clients. The time i spend on Open Source is time i don't invest for clients, and thus money i don't earn. Sponsorship allows me to give more time to Open Source while making sure my family still gets enough to live.
 
 I maintain multiple Open Source applications
+
 [<img src="https://github.com/Akylas/oss-weather/raw/master/App_Resources/Android/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="OSS Weather" height="100">](https://github.com/Akylas/oss-weather)[<img src="https://github.com/Akylas/com.akylas.documentscanner/raw/master/App_Resources/documentscanner/Android/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="OSS Document Scanner" height="100">](https://github.com/Akylas/com.akylas.documentscanner)[<img src="https://github.com/Akylas/alpimaps/raw/master/App_Resources/Android/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Alpi Maps" height="100">](https://github.com/Akylas/alpimaps)
 
 I also work on [Nativescript](https://www.nativescript.org/) which i use to develop those applications
 Here is a little list of some of the projects i maintain:
 
+* [@nativescript-community/ui-collectionview](https://github.com/nativescript-community/ui-collectionview): CollectionView Plugin
 * [@nativescript-community/ui-label](https://github.com/nativescript-community/ui-label): Full label replacement with a tons of options!
 * [@nativescript-community/ui-material-components](https://github.com/nativescript-community/ui-material-components): Big plugin to fully "materialize" your app!
- * [@nativescript-community/ui-carto](https://github.com/nativescript-community/ui-carto): Component for [Carto Mobile SDK](https://github.com/CartoDB/mobile-sdk)
- * [@nativescript-community/sentry](https://github.com/nativescript-community/sentry): Plugin for [Sentry](https://github.com/getsentry/sentry) support
- * [@nativescript-community/sentry](https://github.com/nativescript-community/https): Plugin for [Sentry](https://github.com/getsentry/sentry) support
- * [@nativescript-community/gesturehandler](https://github.com/nativescript-community/gesturehandler): Plugin better gesture handlers
- * [@nativescript-community/ui-canvas](https://github.com/nativescript-community/ui-canvas): Canvas Plugin
- * [@nativescript-community/ui-chart](hhttps://github.com/nativescript-community/ui-chart): Chart Plugin
- * [@nativescript-community/ui-collectionview](https://github.com/nativescript-community/ui-collectionview): CollectionView Plugin
- * [@nativescript-community/ui-image](https://github.com/nativescript-community/ui-image): Image Plugin 
+* [@nativescript-community/ui-image](https://github.com/nativescript-community/ui-image): Image Plugin 
+* [@nativescript-community/ui-chart](hhttps://github.com/nativescript-community/ui-chart): Chart Plugin
+* [@nativescript-community/ui-canvas](https://github.com/nativescript-community/ui-canvas): Canvas Plugin
+* [@nativescript-community/ui-carto](https://github.com/nativescript-community/ui-carto): Component for [Carto Mobile SDK](https://github.com/CartoDB/mobile-sdk)
+* [@nativescript-community/sentry](https://github.com/nativescript-community/sentry): Plugin for [Sentry](https://github.com/getsentry/sentry) support
+* [@nativescript-community/https](https://github.com/nativescript-community/https): Plugin to replace N http with a lot of features
+* [@nativescript-community/gesturehandler](https://github.com/nativescript-community/gesturehandler): Plugin better gesture handlers
 * [@nativescript-community/push](https://github.com/nativescript-community/push): Push Messages Plugin
 * [@nativescript-community//ui-barcodeview](https://github.com/nativescript-community/ui-barcodeview): Barcode View Plugin
 
