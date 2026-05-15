@@ -26,6 +26,17 @@ Here is a little list of some of the projects i maintain:
 * [@nativescript-community//ui-barcodeview](https://github.com/nativescript-community/ui-barcodeview): Barcode View Plugin
 
 
+If you want to help me maintaining those projects there are different ways:
+
+### OSS Apps Collective
+A collective has been created to help fund some of the apps i maitained like OSS DocumentScanner, OSS CardWallet, OSS Weather (more to come). The idea of the collective for now is to help fund the needed hardware like testing devices or a new MacBook (i am on Intel and soon i won't be able to publish apps anymore).
+
+<a href="https://opencollective.com/oss-appscollective" height="90">
+ <img src="https://next-images.opencollective.com/_next/image?url=%2Fstatic%2Fimages%2Foc-logo-watercolor-256.png&w=32&q=75" alt="Open Collective">
+ <img src="https://opencollective.com/static/images/logotype.svg" alt="Open Collective">
+</a>
+
+### Donations
 If you want to help you can donate so that i can spend more time doing open source work!
 
  [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.hIGMGIFrost-G-FNL2kXiQHaHa%26pid%3DApi&f=1&ipt=07208f7d6e9be40d3033950f3cd9c0c579545845a2a4160242cbd610d9b86777&ipo=images" alt="github" height="60">](https://github.com/farfromrefug)[<img src="https://github.githubassets.com/assets/liberapay-48108ded7267.svg" alt="librepay" height="60">](https://liberapay.com/farfromrefuge)[<img src="https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg" alt="patreon" height="60">](https://patreon.com/farfromrefuge)[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.80mAm58z9yS44YaSHUdESQHaHa%26pid%3DApi&f=1&ipt=9c326c9d9740e9f56c2ce4db24bc58792e253301263d64729e62dfb640c014f3&ipo=images" alt="paypal" height="60">](http://paypal.me/farfromfefug)<a href="https://www.buymeacoffee.com/farfromrefug"><img src="https://media3.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.webp" height="60" /></a>
